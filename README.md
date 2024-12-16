@@ -2,8 +2,9 @@
 My name is Cyprien, I successfully completed my IT apprenticeship in 2023. I'm currently doing further studies in application/web development.
 
 # CodePen
-Funny components I made
+Funny UI components I made as challenges
 * [3D Pokemon cards](https://codepen.io/R0kkxRyuk/pen/eYoMWbp)
+* [3D Spinning dice (no js)](https://codepen.io/R0kkxRyuk/pen/LEPGyvz)
 * [Image previewer](https://codepen.io/R0kkxRyuk/pen/ExJLXKN)
 
 # My stats
