@@ -1,5 +1,11 @@
 # About me
-My name is Cyprien, I successfully completed my IT apprenticeship in 2023. I'm currently doing further studies in application/web development.
+Hi, I’m Cyprien! I’m in my 20s and have been exploring IT since 2019. Currently, I’m pursuing higher studies in software development and i can tell that i'm passionate about it.
+
+I’m always working on side projects, and since getting my own home server, I’ve been even more hands-on. I’m a [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) and [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) enthusiast, love CI/CD, and take inspiration from [Robert C. Martin (Uncle Bob)](https://fr.wikipedia.org/wiki/Robert_C._Martin) to write clean, maintainable code. <- this guy is my Guru 
+
+While I’m convinced AI is the future of the field, I prefer learning without relying on it too much... I don’t want to be a script kiddie! That said, I’m also training myself with these tools to stay ahead of the curve.
+
+Let’s build something awesome!
 
 # CodePen
 Funny UI components I made as challenges
@@ -8,6 +14,4 @@ Funny UI components I made as challenges
 * [Image previewer](https://codepen.io/R0kkxRyuk/pen/ExJLXKN)
 
 # My stats
-![Cyprien's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyprien-png&show_icons=true&text_color=ffffff&icon_color=ffffff&title_color=ffffff&bg_color=0,252606,717314,b2884f,8d2527,b32f31,b32f31,da3a3d,da3a3d,da3a3d,da3a3d&custom_title=Cyprien%27s+Github+Stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyprien-png&text_color=ffffff&icon_color=ffffff&title_color=ffffff&bg_color=0,252606,717314,b2884f,b32f31,b32f31,da3a3d,da3a3d,da3a3d,da3a3d&layout=compact)
+![Cyprien's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyprien-png&show_icons=true&text_color=E0E0E0&icon_color=ADA7B4&title_color=E7D7C1&bg_color=291839&custom_title=Cyprien%27s+Github+Stats)
