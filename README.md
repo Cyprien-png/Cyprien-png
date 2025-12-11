@@ -14,4 +14,4 @@ Funny UI components I made as challenges
 * [Image previewer](https://codepen.io/R0kkxRyuk/pen/ExJLXKN)
 
 # My stats
-![Cyprien's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyprien-png&show_icons=true&text_color=E0E0E0&icon_color=ADA7B4&title_color=faf0ac&bg_color=291839&custom_title=Cyprien%27s+Github+Stats)
+![Cyprien's GitHub stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=cyprien-png&show_icons=true&title_color=DE2E2E&border_color=DE2E2E&text_color=666666&bg_color=ffffff&icon_color=F8D866)
