@@ -15,3 +15,4 @@ Funny UI components I made as challenges
 
 # My stats
 ![Cyprien's GitHub stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=cyprien-png&show_icons=true&title_color=DE2E2E&border_color=DE2E2E&text_color=666666&bg_color=ffffff&icon_color=F8D866)
+![Cyprien's GitHub tracker](https://ws.jaquier.dev/load?app=github)
