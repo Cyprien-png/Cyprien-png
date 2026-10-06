@@ -1,5 +1,5 @@
 # About me
-Hi, I’m Cyprien! I’m in my 20s and have been exploring IT since 2019. Currently, I’m pursuing higher studies in software development and i can tell that i'm passionate about it.
+Hi, I’m Cyprien! I’m in my 20s and have been exploring IT since 2019. Currently, I’m pursuing higher studies cybersecurity and i can tell that i'm passionate about it.
 
 I’m always working on side projects, and since getting my own home server, I’ve been even more hands-on. I’m a [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) and [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) enthusiast, love CI/CD, and take inspiration from [Robert C. Martin (Uncle Bob)](https://fr.wikipedia.org/wiki/Robert_C._Martin) to write clean, maintainable code.
 
